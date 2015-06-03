@@ -1,0 +1,18 @@
+{
+    "name": "jquery-field-audit",
+    "title": "jQuery Field Auditor",
+    "description": "jQuery plugin for tracking field changes and POSTing them as an input array.",
+    "version": "0.0.1",
+    "author": {
+        "name": "Wes Holevinski",
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/wholevinski/jquery-field-audit/LICENSE"
+        }
+    ],
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
